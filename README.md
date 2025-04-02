@@ -1,5 +1,5 @@
 # 合併排序法 (Merge Sort) 示範程式
-# 作者：Claude
+# 作者：我、lamma3、Claude
 # 日期：2025年4月2日
 
 def merge_sort(arr):
